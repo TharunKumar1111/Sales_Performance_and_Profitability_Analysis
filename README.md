@@ -1,2 +1,5 @@
-# Sales_Performance_and_Profitability_Analysis
- To analyze sales data and identify revenue trends, profit leakage,  and loss-making areas in order to provide actionable business insights  for improving overall profitability.
+# Sales Performance & Profitability Analysis
+
+This project analyzes sales and profit data using Excel and Power BI.
+It includes KPI analysis, category-wise performance, regional trends,
+monthly sales trends, and identification of loss-making sub-categories.
